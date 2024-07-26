@@ -1,0 +1,12 @@
+Problem Question 1
+
+The scenario involves a swipe table that tracks employee login and logout times. Here are the two challenges:
+
+
+
+Calculate the total time an employee spent in the office on a specific day: This is determined by subtracting the first login time from the last logout time.
+
+
+
+Determine the employee's productivity for that day: Given that employees may swipe in and out multiple times, we need to calculate the actual productive time spent in the office.
+
